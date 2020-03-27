@@ -29,8 +29,6 @@ build/
 local.properties
 *.iml
 
-android/local.properties
-
 # node.js
 #
 node_modules/
